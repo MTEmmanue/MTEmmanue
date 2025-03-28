@@ -12,7 +12,7 @@ Soy estudiante de la carrera en INgenieria en Ciencia de Datos, en mi primer añ
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
 - 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
-- 📫 Reach out to me at: <a href="emmanuel.tp.2024@gmail.com">valenwerlecontacto@gmail.com</a>
+- 📫 Reach out to me at: <a href="emmanuel.tp.2024@gmail.com">emmanuel.tp.2024@gmail.com</a>
 
 ## My Skills Include
 
