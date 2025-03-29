@@ -19,3 +19,15 @@ Soy estudiante de la carrera en Ingenieria en Ciencia de Datos, en mi primer añ
 
 
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tecnologias que conozco👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,r,mysql,vscode,github,git,discord,figma,notion,bi&perline=14" />
+  </a>
+</p>
+
