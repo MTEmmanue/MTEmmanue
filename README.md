@@ -35,14 +35,20 @@ Soy estudiante de la carrera en Ingenieria en Ciencia de Datos, en mi primer añ
   </a>
 </p>
 
-<table align="center">
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
 
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/emmanuel-tapia-85567932b/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/emmanuel_mtj_93285" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
-  </td>
-</tr>
-</table>
+</p>
+
+
+<!--profile visit count-->
+<div align="center">
 
