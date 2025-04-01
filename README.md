@@ -30,9 +30,14 @@ Soy estudiante de la carrera en Ingenieria en Ciencia de Datos, en mi primer añ
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,py,r,mysql,vscode,github,git,discord,figma,notion" /> <img src="https://static.vecteezy.com/system/resources/thumbnails/027/179/363/small/microsoft-excel-icon-logo-symbol-free-png.png" title="Excel" alt="Excel" width="53" height="50"/>&nbsp; <!-- Power BI --> <img src="https://static-00.iconduck.com/assets.00/power-bi-icon-192x256-f7njvutg.png" title="Power BI" alt="Power BI" width="40" height="50"/>
-  </a>
+ 
+  <img src="https://skillicons.dev/icons?i=js,html,css,py,r,mysql,vscode,github,git,discord,figma,notion" />
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/027/179/363/small/microsoft-excel-icon-logo-symbol-free-png.png" title="Excel" alt="Excel" width="53" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" alt="SQL Server" width="50"/>
+  <img src="https://static-00.iconduck.com/assets.00/power-bi-icon-192x256-f7njvutg.png" title="Power BI" alt="Power BI" width="40" height="50" />
+  
+
+
 </p>
 
 <div id="user-content-toc">
