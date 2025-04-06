@@ -3,7 +3,7 @@
 ![Descripción de la imagen](https://primary.jwwb.nl/public/z/o/i/temp-uimruukdplshgjmnpdgf/312s39/80761851_2769211106473187_8645806563128246272_n-3.jpg)
 
 
-<h1 align="center"><b>Hola , Soy Emmanuel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b> Soy Emmanuel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2387CEEB&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+Universitario;Cientifico+de+Datos;Analista+de+Datos;Con+Datos+Se+Toman+Las+Mejores+Decisiones;Un+Saludo!!!"></a>
