@@ -24,7 +24,7 @@ Soy estudiante Universitario de la carrera en Ingenieria en Ciencia de Datos, en
 - 🕵️ Cursioso por desarrollar nuevas ideasy descubrir patrones
 - 🔍Buscando oportunidades para desarrollar proyectos!
 - 📫 Contacta conmigo por: <a href="emmanuel.tp.2024@gmail.com">emmanuel.tp.2024@gmail.com</a>
-- 💻 [MI Portafolio](https://mtemmanue.github.io/Portafolio_Web/)
+- 💻 [MI Portafolio](https://mtemmanue.github.io/Portafolio_Data_Emmanuel/)
 
 
 
