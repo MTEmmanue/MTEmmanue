@@ -15,8 +15,8 @@
 Soy estudiante Universitario de la carrera en Ingenieria en Ciencia de Datos, en mi primer año, pero con mucha cursiosidad y emoción por el aprendizaje, actualmente estando en constante aprendizaje en diversos cursos orientado al Analisis de Datos y pequeña especialización de Data Science de la mano de Oracle y Alura Latam, para asi empezar a crear mis primeros proyectos personales en el mundo de los datos. Soy apasionado por aprender y construir algo nuevo, productivo, innovador y creativo.
 - 💻 Tecnologias de mi interes
   - Data Analyst
-  - Marchine Learning
   - Data Science
+  - Marchine Learning
   - Desarrollo Web
 
     
