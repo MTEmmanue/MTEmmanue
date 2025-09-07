@@ -97,11 +97,19 @@ En este portafolio se encuentran proyectos enfoncados en:
 <br>
 
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img width="500" alt="image1" src="https://github.com/user-attachments/assets/4da5e7e5-290b-49b3-b501-163137dc5aac" />
-  <img width="500" alt="image2" src="https://github.com/user-attachments/assets/8622c150-a3bf-47a1-b16f-9a014e02c660" />
-</div>
->
+<table style="border: none;">
+  <tr>
+    <td style="border: none;">
+      <img src="https://github.com/user-attachments/assets/4da5e7e5-290b-49b3-b501-163137dc5aac" width="400"/>
+    </td>
+    <td style="border: none;">
+      <img src="https://github.com/user-attachments/assets/8622c150-a3bf-47a1-b16f-9a014e02c660" width="400"/>
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 
