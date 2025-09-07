@@ -100,7 +100,7 @@ Me presento como:
 <h3>Portafolio Web👨‍💻</h3>
 
 
-> Este portafolio fue diseñado cpara mostrar mis conocimentos, combinando HTML y CSS para mostrar quién soy y los proyectos que he desarrollado en análisis estratégico y predicción con Python.
+> Este portafolio fue diseñado para mostrar mis conocimentos, combinando HTML y CSS para mostrar quién soy y los proyectos que he desarrollado en análisis estratégico y predicción con Python.
 
 
 
@@ -129,7 +129,7 @@ En este portafolio se encuentran proyectos enfoncados en:
 
 ---
 
-> _🛠️ Este perfil está en constante evolución demostrando mis apacidades y conocimientos en proyectos practivos. Que me ayuden a buscar nuevas oportunidades para desarrollar proyectos._
+> _🛠️ Este perfil está en constante evolución, demostrando mis capacidades y conocimientos en proyectos practicos. Que me ayuden a buscar nuevas oportunidades para desarrollar nuevos proyectos._
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-mtapia/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](emmanuel.tp.2024@gmail.com)
 <!--profile visit count-->
