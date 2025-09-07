@@ -66,23 +66,14 @@ Me presento como:
 
 
 </p>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Conecta conmigo🤝</h2></summary>
-  </ul>
-</div>
+<br>
 
 
+<br>
 
+<h2 align="center">💻Proyectos</h2>
+<h3>Portafolio Web👨‍💻</h3>
 
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/emmanuel-tapia-85567932b/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-
-</p>
-
-<h2><a href="https://mtemmanue.github.io/Portafolio_Data_Emmanuel/" style="text-decoration: none; color: inherit;">💻 MI Portafolio</a></h2>
 
 > Este portafolio fue diseñado cpara mostrar mis conocimentos, combinando HTML y CSS para mostrar quién soy y los proyectos que he desarrollado en análisis estratégico y predicción con Python.
 
