@@ -101,10 +101,11 @@ En este portafolio se encuentran proyectos enfoncados en:
   <img width="500" alt="image1" src="https://github.com/user-attachments/assets/4da5e7e5-290b-49b3-b501-163137dc5aac" />
   <img width="500" alt="image2" src="https://github.com/user-attachments/assets/8622c150-a3bf-47a1-b16f-9a014e02c660" />
 </div>
+>
 
 
 
-<br>
+---
 
 > _🛠️ Este perfil está en constante evolución demostrando mis apacidades y conocimientos en proyectos practivos. Que me ayuden a buscar nuevas oportunidades para desarrollar proyectos._
 
