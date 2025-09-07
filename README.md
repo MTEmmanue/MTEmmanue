@@ -23,7 +23,7 @@ Me presento como:
     <summary>
       <h2 style="display: inline-flex; align-items: center;">
         <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" style="margin-right: 8px;">
-        Perfil profesional
+        Mi Perfil
       </h2>
     </summary>
   </ul>
