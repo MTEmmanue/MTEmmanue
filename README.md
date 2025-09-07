@@ -44,7 +44,17 @@ Me presento como:
 <br>
 
 
-<h2 align="left">🎯 Mis objetivos</h2>
+
+<div id="user-content-toc">
+  <ul align="left">
+    <summary>
+      <h2 style="display: inline-flex; align-items: center;">
+        <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" style="margin-right: 8px;">
+        🎯 Mis objetivos
+      </h2>
+    </summary>
+  </ul>
+</div>
 
 - 🔍 Aplicar mis conocimientos en proyectos de ciencia y analisis de datos
 - ⌨️🖱️ Integranar herramientas y metodologías en proyectos prácticos
@@ -60,7 +70,17 @@ Me presento como:
 
 <br>
   
-<h2 align="center">Tecnologías que conozco 👨🏻‍💻</h2>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h2 style="display: inline-flex; align-items: center;">
+        <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" style="margin-right: 8px;">
+        Tecnologías que conozco 👨🏻‍💻
+      </h2>
+    </summary>
+  </ul>
+</div>
 <!--tech stack icons-->
 <p align="center">
  
