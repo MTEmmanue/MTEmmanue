@@ -71,7 +71,7 @@ Me presento como:
 
 <br>
 
-<h2 align="center">💻Proyectos</h2>
+<h1 align="center">💻Proyectos</h1>
 <h3>Portafolio Web👨‍💻</h3>
 
 
