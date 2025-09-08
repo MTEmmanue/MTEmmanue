@@ -56,7 +56,7 @@ Me presento como:
 </div>
 
 - 🔍 Aplicar mis conocimientos en proyectos de ciencia y analisis de datos
-- ⌨️🖱️ Integranar herramientas y metodologías en proyectos prácticos
+- ⌨️ Integranar herramientas y metodologías en proyectos prácticos
 - 💼 Experimentar con datos en entornos colaborativos
 - 🧠 Especializarme en modelos predictivos.
 - 🌍 Colaborar con empresas que valoren los datos para tomar decisiones estratégicas.
