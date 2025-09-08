@@ -74,7 +74,7 @@ Me presento como:
   <ul align="center">
     <summary>
       <h2 style="display: inline-flex; align-items: center;">
-        👨🏻‍💻Tecnologías que conozco 
+        Tecnologías que conozco 👨🏻‍💻
       </h2>
     </summary>
   </ul>
