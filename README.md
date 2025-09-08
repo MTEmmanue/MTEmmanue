@@ -1,7 +1,7 @@
 
 
 <!--  ![Descripción de la imagen](https://github.com/MTEmmanue/MTEmmanue/blob/main/Banner_Linkedin_Version2.1.png)-->
-<h1 align="center"><b>👋  ¡Hola, a todos! Me llamo Emmanuel Tapia  📊 </b></h1>
+<h1 align="center"><b>👋  ¡Hola, a todos! Me llamo Emmanuel  📊 </b></h1>
 <br>
 <h3 align="left"><b> ¡Bienvenid@s a mi perfil de GitHub!  </b></h3>
 
