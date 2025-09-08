@@ -131,6 +131,10 @@ En este portafolio se encuentran proyectos enfoncados en:
 
 > _🛠️ Este perfil está en constante evolución, demostrando mis capacidades y conocimientos en proyectos practicos. Que me ayuden a buscar nuevas oportunidades para desarrollar nuevos proyectos._
 
+<br>
+
+ <h2>Contactame🤝</h2>
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-mtapia/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](emmanuel.tp.2024@gmail.com)
 <!--profile visit count-->
 <div align="center">
