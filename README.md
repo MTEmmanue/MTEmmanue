@@ -112,6 +112,12 @@ En este portafolio se encuentran proyectos enfoncados en:
 
 <br>
 
+<a href="https://mtemmanue.github.io/Portafolio_Data_Emmanuel/" target="_blank" style="text-decoration: none; font-weight: bold; color: #007acc;">
+  👉 Da click aquí
+</a>
+
+<br>
+<br>
 
 <!-- Fila de imágenes sin bordes -->
 <a href="https://github.com/MTEmmanue/Proyecto-de-An-lisis-de-RH-Predicci-n-y-Crecimiento-de-Empleados" target="_blank">
