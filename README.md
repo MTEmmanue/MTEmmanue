@@ -82,9 +82,11 @@ Me presento como:
 <!--tech stack icons-->
 <p align="center">
  
-  <img src="https://skillicons.dev/icons?i=js,html,css,py,r,mysql,github,git" />
+  <img src="https://skillicons.dev/icons?i=py,r,mysql,github,git" />
   <img src="https://static.vecteezy.com/system/resources/thumbnails/027/179/363/small/microsoft-excel-icon-logo-symbol-free-png.png" title="Excel" alt="Excel" width="53" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" alt="SQL Server" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" alt="SQL Server" width="50"/><img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" title="Power BI" alt="Power BI" width="38"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css" />
+
  
   
 
