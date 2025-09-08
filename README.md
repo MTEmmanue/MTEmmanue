@@ -120,11 +120,11 @@ En este portafolio se encuentran proyectos enfoncados en:
 <br>
 
 <!-- Fila de imágenes sin bordes -->
-<a href="https://github.com/MTEmmanue/Proyecto-de-An-lisis-de-RH-Predicci-n-y-Crecimiento-de-Empleados" target="_blank">
-  <img src="https://github.com/user-attachments/assets/4da5e7e5-290b-49b3-b501-163137dc5aac" alt="Proyecto RH" width="45%" />
+<a href="https://mtemmanue.github.io/Portafolio_Data_Emmanuel/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/4da5e7e5-290b-49b3-b501-163137dc5aac" alt="Portafolio" width="45%" />
 </a>
-<a href="https://github.com/MTEmmanue/Analisis_Ventas_Moviles" target="_blank">
-  <img src="https://github.com/user-attachments/assets/8622c150-a3bf-47a1-b16f-9a014e02c660" alt="Proyecto Ventas Móviles" width="45%" />
+<a href="https://mtemmanue.github.io/Portafolio_Data_Emmanuel/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/8622c150-a3bf-47a1-b16f-9a014e02c660" alt="Proyectos" width="45%" />
 </a>
 
 
