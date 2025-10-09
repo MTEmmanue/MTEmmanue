@@ -5,7 +5,7 @@
 <br>
 <h3 align="left"><b> ¡Bienvenid@s a mi perfil de GitHub!  </b></h3>
 
-Me presento como:
+Soy:
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2387CEEB&size=25&center=true&vCenter=true&width=600&height=100&lines=Análista+de+Datos;Cientifico+de+Datos;Porque;Con+Datos+Se+Toman+Las+Mejores+Decisiones;"></a>
