@@ -12,9 +12,7 @@
 
 ## 👤 Sobre mí
 
-🎓 Estudiante Intermedio de Ingeniería en Ciencia de Datos, con una profunda pasión por el **Análisis de Datos** y la toma de decisiones estratégicas. En constante formación a través de cursos especializados.
-
-💡 Mi enfoque se centra en transformar datos en soluciones reales, desarrollando herramientas que optimicen procesos, resuelvan problemas complejos y generen valor en entornos dinámicos.
+🎓 Estudiante Intermedio de Ingeniería en Ciencia de Datos, con una profunda pasión por el **Análisis de Datos** y la toma de decisiones estratégicas. En constante formación a través de cursos especializados. Mi enfoque se centra en transformar datos en soluciones reales, desarrollando herramientas que optimicen procesos, resuelvan problemas complejos y generen valor en entornos dinámicos.
 
 <br>
 
@@ -131,15 +129,15 @@ En este portafolio se encuentran proyectos enfoncados en:
 ---
 ## 📈 Proyectos Destacados
 
-* **Sistema Financiero "Santa Lucía":** Creación de un sistema de gestión financiera para una cooperativa utilizando herramientas avanzadas de Google Sheets.
-* **Simulación Monte Carlo:** Implementación de modelos estadísticos para la evaluación de potencial energético solar en Juliaca.
-
+* **Pipeline de Predicciones de Emisiones de CO2:** Implementación de un pipeline de Machine Learning de principio a fin para predecir las emisiones de CO2 de vehículos con Regresión Lineal Múltiple
+* **Análisis y Predicción de Abandono:** Identificación de patrones de abandono de clientes en una empresa de telecomunicaciones
+* **Análisis de Ventas de Celulares:** Análisis para obtener insights clave relacionados con marcas, tipos de venta, costos y márgenes.
 ---
 ## 📜 Certificaciones 
 
-* 🎓 **Especialización DataScience** 
-* 📶 **Data Analytics**
-* 🎓 **Python para Analisis de Datos** 
+* 🎓 **Especialización DataScience** (Alura Latam)
+* 📶 **Data Analytics** (WE Educación Ejecutiva)
+* 🎓 **Python para Analisis de Datos** (Data Science Research Peru) 
 
 
 ---
