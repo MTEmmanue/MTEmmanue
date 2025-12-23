@@ -1,18 +1,18 @@
 
 
-<!--  ![Descripción de la imagen](https://github.com/MTEmmanue/MTEmmanue/blob/main/Banner_Linkedin_Version2.1.png)-->
-<h1 align="center"><b>👋  ¡Hola, a todos! Me llamo Emmanuel  📊 </b></h1>
-<br>
-<h3 align="left"><b> ¡Bienvenid@s a mi perfil de GitHub!  </b></h3>
+# ¡Hola! Me llamo Emmanuel 👋 
+### Aspirante a Data Scientist | Analista de Datos Junior
 
-Soy:
+
+---
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2387CEEB&size=25&center=true&vCenter=true&width=600&height=100&lines=Análista+de+Datos;Cientifico+de+Datos;Porque;Con+Datos+Se+Toman+Las+Mejores+Decisiones;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2387CEEB&size=25&center=true&vCenter=true&width=600&height=100&lines=Cientifico+de+Datos;Análista+de+Datos;Porque+Con+Datos;Se+Toman+Las+Mejores+Decisiones;"></a>
 </p>
-<!--  -->
 
-🎓 Estudiante de Ingeniería en Ciencia de Datos en su primer año, con una profunda pasión por el **Análisis de Datos** y la toma de decisiones estratégicas. En constante formación a través de cursos especializados, actualmente cursando una especialización en Data Science respaldada por **Oracle y Alura Latam**.
+## 👤 Sobre mí
+
+🎓 Estudiante Intermedio de Ingeniería en Ciencia de Datos, con una profunda pasión por el **Análisis de Datos** y la toma de decisiones estratégicas. En constante formación a través de cursos especializados.
 
 💡 Mi enfoque se centra en transformar datos en soluciones reales, desarrollando herramientas que optimicen procesos, resuelvan problemas complejos y generen valor en entornos dinámicos.
 
@@ -33,13 +33,13 @@ Soy:
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
--  👨‍💻**Profesión:**      Data Analyst  | Data Science
+-  ⌨️**Profesión:**      Data Analyst  | Data Science
 
 - 💻**Lenguajes de Programación:**   Python | R | SQL
 
 - 📊**Herramientas de Visualización:**  Power BI | Looker Studio | Tableu
 - 🗂️**Herramientas de Desarrollo:**  Git | Visual Studio Code
-- 🖥️**Ofimática:**  Excel | Office (Word, PowerPoint)
+- 🖥️**Herramientas de Automatización:**  N8N | Power Automate
 
 <br>
 
@@ -128,21 +128,28 @@ En este portafolio se encuentran proyectos enfoncados en:
   <img src="https://github.com/user-attachments/assets/8622c150-a3bf-47a1-b16f-9a014e02c660" alt="Proyectos" width="45%" />
 </a>
 
+---
+## 📈 Proyectos Destacados
 
+* **Sistema Financiero "Santa Lucía":** Creación de un sistema de gestión financiera para una cooperativa utilizando herramientas avanzadas de Google Sheets.
+* **Simulación Monte Carlo:** Implementación de modelos estadísticos para la evaluación de potencial energético solar en Juliaca.
 
+---
+## 📜 Certificaciones 
 
-
+* 🎓 **Especialización DataScience** 
+* 📶 **Data Analytics**
+* 🎓 **Python para Analisis de Datos** 
 
 
 ---
 
 > _🛠️ Este perfil está en constante evolución, demostrando mis capacidades y conocimientos en proyectos practicos. Que me ayuden a buscar nuevas oportunidades para desarrollar nuevos proyectos._
 
-<br>
-
- <h2>Contactame🤝</h2>
+---
+ <h2>📬Contactame</h2>
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-mtapia/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](emmanuel.tp.2024@gmail.com)
 <!--profile visit count-->
-<div align="center">
+---
 
