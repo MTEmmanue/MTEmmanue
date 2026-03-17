@@ -1,14 +1,21 @@
 
 
-# ¡Hola! Me llamo Emmanuel 👋 
-### Aspirante a Data Scientist | Analista de Datos Junior
-
-
----
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,40:1a1a2e,100:5de0e6&text=Emmanuel%20Tapia%20-nl-&fontColor=FFF&desc=Data%20Analyst%20|%20Data%20Science%20|%20Automations%20&fontAlignY=35&fontSize=50&descAlignY=49&descSize=18" />
+</div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2387CEEB&size=25&center=true&vCenter=true&width=600&height=100&lines=Cientifico+de+Datos;Análista+de+Datos;Porque+Con+Datos;Se+Toman+Las+Mejores+Decisiones;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2387CEEB&size=25&center=true&vCenter=true&width=600&height=100&lines=Análista+de+Datos;Cientifico+de+Datos;Porque+Con+Datos;Se+Toman+Las+Mejores+Decisiones;"></a>
 </p>
+
+<!-- Social Badges -->
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-mtapia/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuel.tp.2024@gmail.com)
+[![Repos](https://img.shields.io/badge/My_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/facundogimenez-data?tab=repositories)
+
+</div>
 
 ## 👤 Sobre mí
 
@@ -85,7 +92,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" alt="SQL Server" width="50"/><img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" title="Power BI" alt="Power BI" width="38"/>
   <img src="https://skillicons.dev/icons?i=js,html,css" />
 
- 
+ <!-- Tech Stack -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Data & Analytics
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+
+### Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=python&logoColor=white)
+
+### Automations
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
   
 
 
