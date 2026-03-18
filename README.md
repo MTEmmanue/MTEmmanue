@@ -105,8 +105,6 @@ En este portafolio se encuentran proyectos enfoncados en:
 <br>
 <img width="100%" height="870" alt="image" src="https://github.com/user-attachments/assets/e7a08cda-e3e9-40fa-acd3-06af05850e19" />
 
-<br>
-<br>
 
 
 ---
