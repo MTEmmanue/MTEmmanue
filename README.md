@@ -96,24 +96,18 @@ En este portafolio se encuentran proyectos enfoncados en:
 
 - 📈 Análisis exploratorio de datos
 - 🤖 Modelos de predicción
-- 📊 Visualización ejecutiva
+- 📊 Visualización efectiva
 
 <br>
 
-<a href="https://mtemmanue.github.io/Portafolio_Data_Emmanuel/" target="_blank" style="text-decoration: none; font-weight: bold; color: #007acc;">
-  👉 Da click aquí
-</a>
+🌐 **[Portafolio Web](https://mtemmanue.github.io/Portafolio_Data_Web)** 
+<br>
+<br>
+<img width="100%" height="870" alt="image" src="https://github.com/user-attachments/assets/e7a08cda-e3e9-40fa-acd3-06af05850e19" />
 
 <br>
 <br>
 
-<!-- Fila de imágenes sin bordes -->
-<a href="https://mtemmanue.github.io/Portafolio_Data_Emmanuel/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/4da5e7e5-290b-49b3-b501-163137dc5aac" alt="Portafolio" width="45%" />
-</a>
-<a href="https://mtemmanue.github.io/Portafolio_Data_Emmanuel/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/8622c150-a3bf-47a1-b16f-9a014e02c660" alt="Proyectos" width="45%" />
-</a>
 
 ---
 ## 📈 Proyectos Destacados
