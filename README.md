@@ -16,6 +16,7 @@
 [![Repos](https://img.shields.io/badge/My_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/facundogimenez-data?tab=repositories)
 
 </div>
+<br>
 
 ## 👤 Sobre mí
 
@@ -23,77 +24,35 @@
 
 <br>
 
-<div id="user-content-toc">
-  <ul align="left">
-    <summary>
-      <h2 style="display: inline-flex; align-items: center;">
-        <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" style="margin-right: 8px;">
-        Mi Perfil
-      </h2>
-    </summary>
-  </ul>
-</div>
-
-
+```yaml
+Nombre: Emmanuel Tapia
+Locación: Veracruz, México
+Rol: Data Analyst & Data Science
+Lenguajes de Programación: Python | R | SQL
+Herramientas de Visualización: Power BI | Looker Studio | Tableu
+Herramientas de Desarrollo: Git | Visual Studio Code
+Herramientas de Automatización: N8N | Power Automate
+```
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<br>
+
+- 📊 Manejo del Ciclo de Vida de los datos
+- 🧠 Análisis Estadistico y Creación de Modelos de Machine Learning
+- 🛠️ Pensamiento critico, resolución de problemas y comunicación efectiva
+- 📫 Contacta conmigo en **emmanuel.tp.2024@gmail.com**
 
 
--  ⌨️**Profesión:**      Data Analyst  | Data Science
-
-- 💻**Lenguajes de Programación:**   Python | R | SQL
-
-- 📊**Herramientas de Visualización:**  Power BI | Looker Studio | Tableu
-- 🗂️**Herramientas de Desarrollo:**  Git | Visual Studio Code
-- 🖥️**Herramientas de Automatización:**  N8N | Power Automate
-
+<br>
+<br>
+<br>
+<br>
 <br>
 
 
 
-<div id="user-content-toc">
-  <ul align="left">
-    <summary>
-      <h2 style="display: inline-flex; align-items: center;">
-        🎯 Mis objetivos
-      </h2>
-    </summary>
-  </ul>
-</div>
-
-- 🔍 Aplicar mis conocimientos en proyectos de ciencia y analisis de datos
-- ⌨️ Integranar herramientas y metodologías en proyectos prácticos
-- 💼 Experimentar con datos en entornos colaborativos
-- 🧠 Especializarme en modelos predictivos.
-- 🌍 Colaborar con empresas que valoren los datos para tomar decisiones estratégicas.
-  
-    
-
-  
-
-
-
-<br>
-  
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-flex; align-items: center;">
-        Tecnologías que conozco 👨🏻‍💻
-      </h2>
-    </summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
- 
-  <img src="https://skillicons.dev/icons?i=py,r,mysql,github,git" />
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/027/179/363/small/microsoft-excel-icon-logo-symbol-free-png.png" title="Excel" alt="Excel" width="53" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" alt="SQL Server" width="50"/><img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" title="Power BI" alt="Power BI" width="38"/>
-  <img src="https://skillicons.dev/icons?i=js,html,css" />
 
  <!-- Tech Stack -->
-## 🛠️ Tech Stack
+## 🛠️ Mi Stack
 
 <div align="center">
 
@@ -101,16 +60,16 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 
-### Visualization
+
+### Visualización
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=lookerstudio&logoColor=white)
 
-### Automations
+
+### Automatización
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -174,9 +133,15 @@ En este portafolio se encuentran proyectos enfoncados en:
 
 > _🛠️ Este perfil está en constante evolución, demostrando mis capacidades y conocimientos en proyectos practicos. Que me ayuden a buscar nuevas oportunidades para desarrollar nuevos proyectos._
 
+
+
 ---
+<br>
  <h2>📬Contactame</h2>
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-mtapia/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emmanuel.tp.2024@gmail.com)
----
 
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:5de0e6,60:1a1a2e,100:0D1117&section=footer&reversal=true" />
+</div>
