@@ -103,7 +103,7 @@ En este portafolio se encuentran proyectos enfoncados en:
 🌐 **[Portafolio Web](https://mtemmanue.github.io/Portafolio_Data_Web)** 
 <br>
 <br>
-<img width="100%" height="870" alt="image" src="https://github.com/user-attachments/assets/e7a08cda-e3e9-40fa-acd3-06af05850e19" />
+<img width="1854" height="894" alt="image" src="https://github.com/user-attachments/assets/adeff385-fa51-444a-8a83-54cb2eac39f0" />
 
 
 
