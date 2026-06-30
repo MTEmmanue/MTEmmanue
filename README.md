@@ -20,7 +20,7 @@
 
 ## 👤 Sobre mí
 
-🎓 Estudiante Intermedio de Ingeniería en Ciencia de Datos, con una profunda pasión por el **Análisis de Datos** y la toma de decisiones estratégicas. En constante formación a través de cursos especializados. Mi enfoque se centra en transformar datos en soluciones reales, desarrollando herramientas que optimicen procesos, resuelvan problemas complejos y generen valor en entornos dinámicos.
+📊 Analista de Datos enfocado en transformar información cruda en decisiones de negocio. Trabajo con Python, SQL, Power BI y automatización para construir pipelines, dashboards y modelos que generan valor real. En formación continua (Ingeniería en Ciencia de Datos, Universidad Veracruzana) y siempre aplicando lo aprendido en proyectos prácticos."
 
 <br>
 
