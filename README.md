@@ -24,22 +24,12 @@
 
 <br>
 
-```yaml
-Nombre: Emmanuel Tapia
-Locación: Veracruz, México
-Rol: Data Analyst & Data Science
-Lenguajes de Programación: Python | R | SQL
-Herramientas de Visualización: Power BI | Looker Studio | Tableu
-Herramientas de Desarrollo: Git | Visual Studio Code
-Herramientas de Automatización: N8N | Power Automate
-```
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br>
 
 - 📊 Manejo del Ciclo de Vida de los datos
 - 🧠 Análisis Estadistico y Creación de Modelos de Machine Learning
 - 🛠️ Pensamiento critico, resolución de problemas y comunicación efectiva
-- 📫 Contacta conmigo en **emmanuel.tp.2024@gmail.com**
 
 
 <br>
@@ -66,7 +56,6 @@ Herramientas de Automatización: N8N | Power Automate
 ### Visualización
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=lookerstudio&logoColor=white)
 
 
 ### Automatización
@@ -113,21 +102,11 @@ En este portafolio se encuentran proyectos enfoncados en:
 * **Pipeline de Predicciones de Emisiones de CO2:** Implementación de un pipeline de Machine Learning de principio a fin para predecir las emisiones de CO2 de vehículos con Regresión Lineal Múltiple
 * **Análisis y Predicción de Abandono:** Identificación de patrones de abandono de clientes en una empresa de telecomunicaciones
 * **Análisis de Ventas de Celulares:** Análisis para obtener insights clave relacionados con marcas, tipos de venta, costos y márgenes.
----
-## 📜 Certificaciones 
-
-* 🎓 **Especialización DataScience** (Alura Latam)
-* 📶 **Data Analytics** (WE Educación Ejecutiva)
-* 🎓 **Python para Analisis de Datos** (Data Science Research Peru) 
-
-
----
-
-> _🛠️ Este perfil está en constante evolución, demostrando mis capacidades y conocimientos en proyectos practicos. Que me ayuden a buscar nuevas oportunidades para desarrollar nuevos proyectos._
+* **Dashboard Trata de Personas:** Análisis de casos de trata de personas en México.
 
 
 
----
+
 <br>
  <h2>📬Contactame</h2>
  
