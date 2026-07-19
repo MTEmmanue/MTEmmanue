@@ -22,7 +22,6 @@
 
 📊 Analista de Datos enfocado en transformar información cruda en decisiones de negocio. Trabajo con Python, SQL, Power BI y automatización para construir pipelines, dashboards y modelos que generan valor real. En formación continua (Ingeniería en Ciencia de Datos, Universidad Veracruzana) y siempre aplicando lo aprendido en proyectos prácticos."
 
-<br>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br>
