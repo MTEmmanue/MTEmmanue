@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,40:1a1a2e,100:5de0e6&text=Emmanuel%20Tapia%20-nl-&fontColor=FFF&desc=Data%20Analyst%20|%20Data%20Science%20|%20Automations%20&fontAlignY=35&fontSize=50&descAlignY=49&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,40:1a1a2e,100:5de0e6&text=Emmanuel%20Tapia%20-nl-&fontColor=FFF&desc=Data%20Analyst%20|%20Data%20Science%20|%20Automations%20&fontAlignY=35&fontSize=50&descAlignY=49&descSize=18" />
 </div>
 
 <p align="center">
@@ -11,9 +11,18 @@
 <!-- Social Badges -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-mtapia/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuel.tp.2024@gmail.com)
-[![Repos](https://img.shields.io/badge/My_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MTEmmanue?tab=repositories)
+<p align="center">
+  <a href="https://www.linkedin.com/in/emmanuel-mtapia/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:emmanuel.tp.2024@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/MTEmmanue?tab=repositories">
+    <img src="https://img.shields.io/badge/My_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/>
+  </a>
+</p>
+
 
 </div>
 <br>
@@ -46,20 +55,19 @@
 <div align="center">
 
 ### Data & Analytics
+
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white).
-
-
-
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### Visualización
+
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-
 ### Automatización
+
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
