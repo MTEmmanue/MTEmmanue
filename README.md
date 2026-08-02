@@ -4,18 +4,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,40:1a1a2e,100:5de0e6&text=Emmanuel%20Tapia%20-nl-&fontColor=FFF&desc=Data%20Analyst%20|%20Data%20Science%20|%20Automations%20&fontAlignY=35&fontSize=50&descAlignY=49&descSize=18" />
 </div>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2387CEEB&size=25&center=true&vCenter=true&width=600&height=100&lines=Análista+de+Datos;Cientifico+de+Datos;Porque+Con+Datos;Se+Toman+Las+Mejores+Decisiones;"></a>
-</p>
-
-<!-- Social Badges -->
-<div align="center">
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/emmanuel-mtapia/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:emmanuel.tp.2024@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/MTEmmanue?tab=repositories"><img src="https://img.shields.io/badge/My_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a>
-</p>
 
 
 </div>
@@ -39,7 +27,17 @@
 <br>
 <br>
 <br>
+<!-- Social Badges -->
+<div align="center">
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/emmanuel-mtapia/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:emmanuel.tp.2024@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/MTEmmanue?tab=repositories"><img src="https://img.shields.io/badge/My_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a>
+</p>
+
+<br>
+<br>
 
 
 
@@ -114,6 +112,10 @@ En este portafolio se encuentran proyectos enfoncados en:
  <h2>📬Contactame</h2>
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-mtapia/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emmanuel.tp.2024@gmail.com)
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2387CEEB&size=25&center=true&vCenter=true&width=600&height=100&lines=Porque+Con+Datos;Se+Toman+Las+Mejores+Decisiones;"></a>
+</p>
 
 
 <div align="center">
