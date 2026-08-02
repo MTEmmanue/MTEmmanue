@@ -28,7 +28,8 @@ Analista de Datos enfocado en transformar información cruda en decisiones de ne
 <br>
 <br>
 <br>
-
+<br>
+<br>
 
 
  <!-- Tech Stack -->
