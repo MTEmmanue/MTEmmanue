@@ -14,7 +14,9 @@
 - 🛠️ Pensamiento critico, resolución de problemas y comunicación efectiva
 
 <br>
-
+<br>
+<br>
+<br>
 <!-- Social Badges -->
 <div >
 
@@ -26,7 +28,9 @@
 </div>
 <br>
 <br>
-
+<br>
+<br>
+<br>
 
 
  <!-- Tech Stack -->
