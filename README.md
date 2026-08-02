@@ -17,6 +17,10 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 <!-- Social Badges -->
 <div align="center">
 
@@ -29,8 +33,7 @@
 <br>
 <br>
 <br>
-<br>
-<br>
+
 
 
  <!-- Tech Stack -->
