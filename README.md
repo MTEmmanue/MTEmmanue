@@ -18,10 +18,6 @@
 - 🧠 Análisis Estadistico y Creación de Modelos de Machine Learning
 - 🛠️ Pensamiento critico, resolución de problemas y comunicación efectiva
 
-
-<br>
-<br>
-<br>
 <br>
 <br>
 <!-- Social Badges -->
