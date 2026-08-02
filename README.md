@@ -4,10 +4,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,40:1a1a2e,100:5de0e6&text=Emmanuel%20Tapia%20-nl-&fontColor=FFF&desc=Data%20Analyst%20|%20Data%20Science%20|%20Automations%20&fontAlignY=35&fontSize=50&descAlignY=49&descSize=18" />
 </div>
 
-
-
-## 👤 Sobre mí
-
 📊 Analista de Datos enfocado en transformar información cruda en decisiones de negocio. Trabajo con Python, SQL, Power BI y automatización para construir pipelines, dashboards y modelos que generan valor real. En formación continua (Ingeniería en Ciencia de Datos, Universidad Veracruzana) y siempre aplicando lo aprendido en proyectos prácticos.
 
 
