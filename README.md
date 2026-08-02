@@ -16,9 +16,6 @@ Analista de Datos enfocado en transformar información cruda en decisiones de ne
 
 <br>
 <br>
-<br>
-<br>
-<br>
 <!-- Social Badges -->
 <div align="center">
 
