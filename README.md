@@ -8,18 +8,17 @@
 
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-<br>
 
 - 📊 Manejo del Ciclo de Vida de los datos
 - 🧠 Análisis Estadistico y Creación de Modelos de Machine Learning
 - 🛠️ Pensamiento critico, resolución de problemas y comunicación efectiva
 
 <br>
-<br>
-<!-- Social Badges -->
-<div align="center">
 
-<p align="center">
+<!-- Social Badges -->
+<div >
+
+<p >
   <a href="https://www.linkedin.com/in/emmanuel-mtapia/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:emmanuel.tp.2024@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/MTEmmanue?tab=repositories"><img src="https://img.shields.io/badge/My_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a>
