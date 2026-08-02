@@ -6,9 +6,6 @@
 
 
 
-</div>
-<br>
-
 ## 👤 Sobre mí
 
 📊 Analista de Datos enfocado en transformar información cruda en decisiones de negocio. Trabajo con Python, SQL, Power BI y automatización para construir pipelines, dashboards y modelos que generan valor real. En formación continua (Ingeniería en Ciencia de Datos, Universidad Veracruzana) y siempre aplicando lo aprendido en proyectos prácticos.
@@ -35,7 +32,7 @@
   <a href="mailto:emmanuel.tp.2024@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/MTEmmanue?tab=repositories"><img src="https://img.shields.io/badge/My_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a>
 </p>
-
+</div>
 <br>
 <br>
 
