@@ -87,22 +87,22 @@ En este portafolio se encuentran proyectos enfoncados en:
 
 # Proyectos Destacados
 
-###  [Monitoreo de Trata de Personas en México & Forecasting (ODS 8.7)](https://github.com/tu-usuario/proyecto-trata-personas)
+###  [Monitoreo de Trata de Personas en México & Forecasting (ODS 8.7)](https://github.com/MTEmmanue/Dashboard-trata-personas-mexico-ods87)
 > **Stack:** Power BI, R (Holt-Winters), Python
 * Desarrollo de un **dashboard interactivo en Power BI** alineado con la Meta 8.7 de los ODS de la ONU.
 * Integración de scripts de **R** para la implementación de un modelo de series de tiempo **Holt-Winters**, permitiendo proyectar tendencias y patrones espacio-temporales.
 
-###  [Pipeline ETL End-to-End: Python & SQL Server](https://github.com/tu-usuario/proyecto-etl-python-sql)
+###  [Pipeline ETL End-to-End: Python & SQL Server](https://github.com/MTEmmanue/ETL_Python-SQL)
 > **Stack:** Python, Pandas, SQLAlchemy, SQL Server
 * Arquitectura y desarrollo de un **pipeline de extracción, transformación y carga (ETL)** para datos simulados de plataformas de videojuegos.
 * Automatización del procesamiento y estructuración de datos para su almacenamiento en una base de datos relacional en SQL Server.
 
-###  [Clasificación de Churn de Clientes – Alura Latam Telecom X](https://github.com/tu-usuario/telecom-churn-prediction)
+###  [Clasificación de Churn de Clientes – Alura Latam Telecom X](https://github.com/MTEmmanue/Challenge_TelecomX_Predicci-n_Abandono)
 > **Stack:** Python, Scikit-learn, SMOTE, Logistic Regression
 * Modelo de **clasificación para predecir la fuga de clientes** (*churn*) en el sector de telecomunicaciones.
 * Implementación de técnicas de balanceo de clases (**SMOTE**) y regresión logística para optimizar el rendimiento y la sensibilidad del modelo.
 
-###  [Predicción de Emisiones de CO2 en Vehículos](https://github.com/tu-usuario/co2-emissions-prediction)
+###  [Predicción de Emisiones de CO2 en Vehículos](https://github.com/MTEmmanue/Proyecto_Regresi-n_Lineal_Pipeline)
 > **Stack:** Python, Scikit-learn, Joblib, Regresión Lineal
 * Construcción de un **modelo de Regresión Lineal Múltiple** para estimar el nivel de emisiones contaminantes según características técnicas del vehículo.
 * Serialización del pipeline completo mediante **Joblib** para facilitar su despliegue y consumo.
