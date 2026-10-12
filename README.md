@@ -34,7 +34,8 @@ Con experiencia práctica en el desarrollo de proyectos integrales, donde he imp
 
 <br>
 <br>
-
+<br>
+<br>
 
 
 
