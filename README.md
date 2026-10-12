@@ -35,10 +35,6 @@ Busco mi primera oportunidad profesional en Análisis de Datos o Ciencia de Dato
 
 
 <br>
-<br>
-<br>
-<br>
-<br>
 
 
 ### Tecnologias que trabajo
@@ -53,7 +49,7 @@ Busco mi primera oportunidad profesional en Análisis de Datos o Ciencia de Dato
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 
 
@@ -85,11 +81,11 @@ En este portafolio se encuentran proyectos enfoncados en:
 <br>
 <br>
 <img width="1854" height="894" alt="image" src="https://github.com/user-attachments/assets/adeff385-fa51-444a-8a83-54cb2eac39f0" />
+<br>
+<br>
+<br>
 
-
-
----
-## Proyectos Destacados
+# Proyectos Destacados
 
 ###  [Monitoreo de Trata de Personas en México & Forecasting (ODS 8.7)](https://github.com/tu-usuario/proyecto-trata-personas)
 > **Stack:** Power BI, R (Holt-Winters), Python
