@@ -38,7 +38,7 @@ Busco mi primera oportunidad profesional en Análisis de Datos o Business Intell
 <br>
 <br>
 <br>
-
+<br>
 
 
 ### Tecnologias que trabajo
