@@ -22,7 +22,7 @@
 
 Con experiencia práctica en el desarrollo de proyectos integrales, donde he implementado desde **pipelines ETL con Python y SQL Server, hasta modelos predictivos de aprendizaje automático y análisis analítico de series de tiempo**. Asimismo, he diseñado **dashboards interactivos en Power BI** para el monitoreo de indicadores socioeconómicos y la toma de decisiones basada en datos. 
 
-Busco mi primera oportunidad profesional en Análisis de Datos o Business Intelligence, con el firme propósito de seguir evolucionando y aportando valor en el área de la ciencia de datos
+Busco mi primera oportunidad profesional en Análisis de Datos o Ciencia de Datos, con el firme propósito de seguir evolucionando y aportando valor en el área de la ciencia de datos
 
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
