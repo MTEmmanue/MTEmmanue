@@ -18,9 +18,9 @@
 
 </p>
 
-**Analista de Datos** enfocado en transformar información cruda en decisiones de negocio. Trabajo con Python, SQL, Power BI y automatización para construir pipelines, dashboards y modelos que generan valor real.Transformo datos y analisis que ayuden a comprender los problemas de negocio ayudando en la toma de decisiones. En formación continua (Ingeniería en Ciencia de Datos, Universidad Veracruzana) y siempre aplicando lo aprendido en proyectos prácticos.
+**Analista de Datos** enfocado en transformar información cruda en decisiones de negocio. Trabajo con **Python, SQL, Power BI y automatización para construir pipelines, dashboards y modelos** que generan valor real.Transformo datos y analisis que ayuden a comprender los problemas de negocio ayudando en la toma de decisiones. En formación continua (Ingeniería en Ciencia de Datos, Universidad Veracruzana) y siempre aplicando lo aprendido en proyectos prácticos.
 
-Con experiencia práctica en el desarrollo de proyectos integrales, donde he implementado desde pipelines ETL con Python y SQL Server, hasta modelos predictivos de aprendizaje automático y análisis analítico de series de tiempo. Asimismo, he diseñado dashboards interactivos en Power BI para el monitoreo de indicadores socioeconómicos y la toma de decisiones basada en datos. Busco mi primera oportunidad profesional en Análisis de Datos o Business Intelligence, con el firme propósito de seguir evolucionando y aportando valor en el área de la ciencia de datos
+Con experiencia práctica en el desarrollo de proyectos integrales, donde he implementado desde **pipelines ETL con Python y SQL Server, hasta modelos predictivos de aprendizaje automático y análisis analítico de series de tiempo**. Asimismo, he diseñado **dashboards interactivos en Power BI** para el monitoreo de indicadores socioeconómicos y la toma de decisiones basada en datos. Busco mi primera oportunidad profesional en Análisis de Datos o Business Intelligence, con el firme propósito de seguir evolucionando y aportando valor en el área de la ciencia de datos
 
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
